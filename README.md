@@ -67,9 +67,9 @@
     <h3>Backend Setup</h3>
     <ol>
         <li>Clone this repository:</li>
-        <pre><code>git clone https://github.com/noraalissa13/SADA_desktop.git</code></pre>
+        <pre><code>git clone https://github.com/noraalissa13/SADA.git</code></pre>
         <li>Navigate to the backend directory:</li>
-        <pre><code>cd SADA_desktop/backend</code></pre>
+        <pre><code>cd SADA/backend</code></pre>
         <li>Install dependencies:</li>
         <pre><code>pip install -r requirements.txt</code></pre>
         <li>Run the FastAPI WebSocket server:</li>
@@ -80,7 +80,7 @@
         <li>Ensure Flutter is installed and set up on your machine.</li>
         <li>Ensure you have Microsoft Visual Studio with the Desktop Development with C++ workload installed.</li>
         <li>Navigate to the frontend directory:</li>
-        <pre><code>cd SADA_desktop</code></pre>
+        <pre><code>cd SADA</code></pre>
         <li>Install dependencies:</li>
         <pre><code>flutter pub get</code></pre>
         <li>Run the Flutter app:</li>
